@@ -1,0 +1,76 @@
+/*
+ *  Created By:  Coach Eric
+ *  Revision:  1
+ *  Date:  7/16/18
+ *
+ *
+ *  This file contains directions for our team on how to run some basic gitHub maintenance activities.
+ *
+ *  Note:  The primary activity will be to 'sync' with the main FIRST FTC SDK repository (ftctechnh/ftc_app)
+ *         when they release new updates to the SDK.  (using STEP 5 frequently)
+ *
+ */
+
+
+1. Fork the orginal ftc SDK into our Organization
+2. Create a new Repository for Rover-Ruckus
+3. Go into Rover-Ruckus Repository and IMPORT from the forked version FTC997/ftc_app
+
+   - This should copy the files from the "forked" version into our Teams Rover Ruckus
+     project workspace.
+
+4. Next setup a method to keep your forked copy in sync with First ftctechnh/ftc_app (The original SDK put out by FIRST), do the following:
+
+
+
+  Keeping your FORKED repository in sync with the main FIRST SDK  (ftctechnh/ftc_app)
+
+     Pre-requisite:
+        - Andrioid Studio should NOT BE RUNNING AT THIS TIME...
+
+
+	    1. On your local laptop, cd to the directory were the .git directory is located.
+	       For CS team, this should be under /Documents/FTC/2018/Programming/
+
+
+	    2. Verify which repository's you currently see.  You should see something similare to:
+
+			    $ git remote -v
+				origin	https://github.com/FTC9977/ftc_app.git (fetch)
+				origin	https://github.com/FTC9977/ftc_app.git (push)
+
+
+	    3. from the command line issue:
+	         git remote add upstream https://github.com/ftctechnh/ftc_app.git
+
+
+        4. Re-validate your repository listings.  You should see this now:
+
+
+			$ git remote -v
+			origin	https://github.com/FTC9977/ftc_app.git (fetch)
+			origin	https://github.com/FTC9977/ftc_app.git (push)
+			upstream	https://github.com/ftctechnh/ftc_app.git (fetch)  <--- NEW
+			upstream	https://github.com/ftctechnh/ftc_app.git (push)	  <--- NEW
+
+
+	    NOTE:  You only need to perform steps 1-4 ONCE...  You will be issues the commands below to sync up the FTC SDK from the orginal (ftctechnh/ftc_app)....
+
+
+
+	    5.  Now to sync your Forked repository with the FIRST FTC SDK (orginal), do the following from the command line:
+
+	         git pull upstream master
+
+
+
+    Example 1:  Tried to SYNC, but already in an updated status:
+
+
+			$ git pull upstream master
+			From https://github.com/ftctechnh/ftc_app
+			 * branch            master     -> FETCH_HEAD
+			Already up-to-date.
+
+
+	Example 2:  Updates to main FTC SDK have been release, now syncing our local copy  (TBD)
