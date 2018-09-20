@@ -74,3 +74,41 @@
 
 
 	Example 2:  Updates to main FTC SDK have been release, now syncing our local copy  (TBD)
+
+
+	===============================================================
+	Setting Up Students laptop for Github Team Repository Access
+	===============================================================
+
+
+	1. Student is required to obtain an account on Github.com.
+	2. Coach will need to login to Master Team Repository and add the student as a collaborator.
+	   An invitation will be sent to the student via email
+
+	3. Student should look for email invite from the coach, and accept the invitation.  This will
+	   add the student to the teams repository as a colloborator.
+
+	4. Student should open up Android Studio Application
+	5. Perform the following steps on the students laptop  (this is done ONCE ONLY)
+
+	    From the Welcome to Andriod studio Window:
+	        a. Select "Check out project from Version Control"
+	        b. From the small drop down menu, select "GIT"
+	        C. From the Clone Repository Window, fill in the following fields:
+	               Git Repository URL:  <URL location for team repository>
+	                  for FTC9977:   https://github.com/FTC9977/ftc_app.git
+
+	               Parent Directory:  place in a suitable directory on students laptop
+
+	                ex.  /home/users/testuser/Programming/
+
+	               Directory Name:   should be automatically filled in.  Do not change.
+
+	 6. Select Clone.... and wait for it to complete.
+	 7. If prompted for gradle build, choose (recommended) and OK to continue.
+	 8. Once successful cloning has been completed.  It will ask if you would like to open up
+	    the new project. Select YES.
+	 9. Allow Gradle to build and complete.
+	 10. Your Now done with the CLONING portion of the setup.
+
+
