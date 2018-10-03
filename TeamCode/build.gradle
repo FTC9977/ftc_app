@@ -16,6 +16,10 @@ dependencies {
 }
 android {
     defaultConfig {
-        minSdkVersion 21
+        minSdkVersion 23
+        targetSdkVersion 23
     }
+    productFlavors {
+    }
+    buildToolsVersion '28.0.2'
 }
