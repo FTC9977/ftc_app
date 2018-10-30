@@ -15,6 +15,7 @@ buildscript {
 }
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 
 // This is now required because aapt2 has to be downloaded from the
@@ -24,16 +25,25 @@ buildscript {
 // This is now required because aapt2 has to be downloaded from the
 // google() repository beginning with version 3.2 of the Android Gradle Plugin
 >>>>>>> 034b5f65dfbac282e018e6c5721f3fa3647cd28e
+=======
+// This is now required because aapt2 has to be downloaded from the
+// google() repository beginning with version 3.2 of the Android Gradle Plugin
+>>>>>>> 034b5f65dfbac282e018e6c5721f3fa3647cd28e
 allprojects {
     repositories {
         google()
         jcenter()
+<<<<<<< HEAD
 <<<<<<< HEAD
 
 
     }
 }
 
+=======
+    }
+}
+>>>>>>> 034b5f65dfbac282e018e6c5721f3fa3647cd28e
 =======
     }
 }
