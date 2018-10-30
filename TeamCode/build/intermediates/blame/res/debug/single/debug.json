@@ -1,99 +1,103 @@
 [
     {
         "merged": "/Users/eharwood/Documents/FTC/2018-2019 Season/Programming/Rover-Ruckus/TeamCode/build/intermediates/res/merged/debug/layout_analog_outputs.xml.flat",
-        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/7f0f3f78b7628aa378b80a8a05cc7c67/res/layout/analog_outputs.xml"
+        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/baee1c9a5a052bf55b9feaf0bbe6a48e/res/layout/analog_outputs.xml"
     },
     {
         "merged": "/Users/eharwood/Documents/FTC/2018-2019 Season/Programming/Rover-Ruckus/TeamCode/build/intermediates/res/merged/debug/layout_gray_line.xml.flat",
-        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/7f0f3f78b7628aa378b80a8a05cc7c67/res/layout/gray_line.xml"
+        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/baee1c9a5a052bf55b9feaf0bbe6a48e/res/layout/gray_line.xml"
     },
     {
         "merged": "/Users/eharwood/Documents/FTC/2018-2019 Season/Programming/Rover-Ruckus/TeamCode/build/intermediates/res/merged/debug/menu_menu_server.xml.flat",
-        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/Blocks-release.aar/c99ce5b3aedc83d3d9a22e2cceb27f7b/res/menu/menu_server.xml"
+        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/Blocks-release.aar/b691d5e015796c1188e0a19e60c49f0e/res/menu/menu_server.xml"
     },
     {
         "merged": "/Users/eharwood/Documents/FTC/2018-2019 Season/Programming/Rover-Ruckus/TeamCode/build/intermediates/res/merged/debug/layout_lynx_module_configure_address.xml.flat",
-        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/7f0f3f78b7628aa378b80a8a05cc7c67/res/layout/lynx_module_configure_address.xml"
+        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/baee1c9a5a052bf55b9feaf0bbe6a48e/res/layout/lynx_module_configure_address.xml"
     },
     {
         "merged": "/Users/eharwood/Documents/FTC/2018-2019 Season/Programming/Rover-Ruckus/TeamCode/build/intermediates/res/merged/debug/layout_motor_controller_banner.xml.flat",
-        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/7f0f3f78b7628aa378b80a8a05cc7c67/res/layout/motor_controller_banner.xml"
+        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/baee1c9a5a052bf55b9feaf0bbe6a48e/res/layout/motor_controller_banner.xml"
     },
     {
         "merged": "/Users/eharwood/Documents/FTC/2018-2019 Season/Programming/Rover-Ruckus/TeamCode/build/intermediates/res/merged/debug/xml_k9usbbot.xml.flat",
-        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/7f0f3f78b7628aa378b80a8a05cc7c67/res/xml/k9usbbot.xml"
+        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/baee1c9a5a052bf55b9feaf0bbe6a48e/res/xml/k9usbbot.xml"
     },
     {
         "merged": "/Users/eharwood/Documents/FTC/2018-2019 Season/Programming/Rover-Ruckus/TeamCode/build/intermediates/res/merged/debug/layout_webcam_device.xml.flat",
-        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/7f0f3f78b7628aa378b80a8a05cc7c67/res/layout/webcam_device.xml"
+        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/baee1c9a5a052bf55b9feaf0bbe6a48e/res/layout/webcam_device.xml"
     },
     {
         "merged": "/Users/eharwood/Documents/FTC/2018-2019 Season/Programming/Rover-Ruckus/TeamCode/build/intermediates/res/merged/debug/xml_advanced_rc_settings.xml.flat",
-        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/7f0f3f78b7628aa378b80a8a05cc7c67/res/xml/advanced_rc_settings.xml"
+        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/baee1c9a5a052bf55b9feaf0bbe6a48e/res/xml/advanced_rc_settings.xml"
     },
     {
         "merged": "/Users/eharwood/Documents/FTC/2018-2019 Season/Programming/Rover-Ruckus/TeamCode/build/intermediates/res/merged/debug/drawable_feedback_shape_orange.xml.flat",
-        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/RobotCore-release.aar/ca4e5f2aea515fef58494ce5f0271da1/res/drawable/feedback_shape_orange.xml"
+        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/RobotCore-release.aar/ebbf35929b02e8e30346dee0a88c24a5/res/drawable/feedback_shape_orange.xml"
     },
     {
         "merged": "/Users/eharwood/Documents/FTC/2018-2019 Season/Programming/Rover-Ruckus/TeamCode/build/intermediates/res/merged/debug/raw_texture_vertex_shader.glsl.flat",
-        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/RobotCore-release.aar/ca4e5f2aea515fef58494ce5f0271da1/res/raw/texture_vertex_shader.glsl"
+        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/RobotCore-release.aar/ebbf35929b02e8e30346dee0a88c24a5/res/raw/texture_vertex_shader.glsl"
     },
     {
         "merged": "/Users/eharwood/Documents/FTC/2018-2019 Season/Programming/Rover-Ruckus/TeamCode/build/intermediates/res/merged/debug/layout_activity_view_logs.xml.flat",
-        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/7f0f3f78b7628aa378b80a8a05cc7c67/res/layout/activity_view_logs.xml"
+        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/baee1c9a5a052bf55b9feaf0bbe6a48e/res/layout/activity_view_logs.xml"
     },
     {
         "merged": "/Users/eharwood/Documents/FTC/2018-2019 Season/Programming/Rover-Ruckus/TeamCode/build/intermediates/res/merged/debug/layout_servo_list.xml.flat",
-        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/7f0f3f78b7628aa378b80a8a05cc7c67/res/layout/servo_list.xml"
+        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/baee1c9a5a052bf55b9feaf0bbe6a48e/res/layout/servo_list.xml"
     },
     {
         "merged": "/Users/eharwood/Documents/FTC/2018-2019 Season/Programming/Rover-Ruckus/TeamCode/build/intermediates/res/merged/debug/layout_matrix_devices.xml.flat",
-        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/7f0f3f78b7628aa378b80a8a05cc7c67/res/layout/matrix_devices.xml"
+        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/baee1c9a5a052bf55b9feaf0bbe6a48e/res/layout/matrix_devices.xml"
     },
     {
         "merged": "/Users/eharwood/Documents/FTC/2018-2019 Season/Programming/Rover-Ruckus/TeamCode/build/intermediates/res/merged/debug/layout_motor_list.xml.flat",
-        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/7f0f3f78b7628aa378b80a8a05cc7c67/res/layout/motor_list.xml"
+        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/baee1c9a5a052bf55b9feaf0bbe6a48e/res/layout/motor_list.xml"
     },
     {
         "merged": "/Users/eharwood/Documents/FTC/2018-2019 Season/Programming/Rover-Ruckus/TeamCode/build/intermediates/res/merged/debug/raw_chimedisconnect.wav.flat",
-        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/7f0f3f78b7628aa378b80a8a05cc7c67/res/raw/chimedisconnect.wav"
+        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/baee1c9a5a052bf55b9feaf0bbe6a48e/res/raw/chimedisconnect.wav"
+    },
+    {
+        "merged": "/Users/eharwood/Documents/FTC/2018-2019 Season/Programming/Rover-Ruckus/TeamCode/build/intermediates/res/merged/debug/raw_gold.wav.flat",
+        "source": "/Users/eharwood/Documents/FTC/2018-2019 Season/Programming/Rover-Ruckus/FtcRobotController/build/intermediates/packaged_res/debug/raw/gold.wav"
     },
     {
         "merged": "/Users/eharwood/Documents/FTC/2018-2019 Season/Programming/Rover-Ruckus/TeamCode/build/intermediates/res/merged/debug/layout_lynx_module_configure_address_spin_item.xml.flat",
-        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/7f0f3f78b7628aa378b80a8a05cc7c67/res/layout/lynx_module_configure_address_spin_item.xml"
+        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/baee1c9a5a052bf55b9feaf0bbe6a48e/res/layout/lynx_module_configure_address_spin_item.xml"
     },
     {
         "merged": "/Users/eharwood/Documents/FTC/2018-2019 Season/Programming/Rover-Ruckus/TeamCode/build/intermediates/res/merged/debug/raw_format_convert.bc.flat",
-        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/RobotCore-release.aar/ca4e5f2aea515fef58494ce5f0271da1/res/raw/format_convert.bc"
+        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/RobotCore-release.aar/ebbf35929b02e8e30346dee0a88c24a5/res/raw/format_convert.bc"
     },
     {
         "merged": "/Users/eharwood/Documents/FTC/2018-2019 Season/Programming/Rover-Ruckus/TeamCode/build/intermediates/res/merged/debug/layout_activity_ftc_lynx_address_update.xml.flat",
-        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/7f0f3f78b7628aa378b80a8a05cc7c67/res/layout/activity_ftc_lynx_address_update.xml"
+        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/baee1c9a5a052bf55b9feaf0bbe6a48e/res/layout/activity_ftc_lynx_address_update.xml"
     },
     {
         "merged": "/Users/eharwood/Documents/FTC/2018-2019 Season/Programming/Rover-Ruckus/TeamCode/build/intermediates/res/merged/debug/raw_cube_mesh_fragment_shader.glsl.flat",
-        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/RobotCore-release.aar/ca4e5f2aea515fef58494ce5f0271da1/res/raw/cube_mesh_fragment_shader.glsl"
+        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/RobotCore-release.aar/ebbf35929b02e8e30346dee0a88c24a5/res/raw/cube_mesh_fragment_shader.glsl"
     },
     {
         "merged": "/Users/eharwood/Documents/FTC/2018-2019 Season/Programming/Rover-Ruckus/TeamCode/build/intermediates/res/merged/debug/layout_loading_indicator_overlay.xml.flat",
-        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/RobotCore-release.aar/ca4e5f2aea515fef58494ce5f0271da1/res/layout/loading_indicator_overlay.xml"
+        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/RobotCore-release.aar/ebbf35929b02e8e30346dee0a88c24a5/res/layout/loading_indicator_overlay.xml"
     },
     {
         "merged": "/Users/eharwood/Documents/FTC/2018-2019 Season/Programming/Rover-Ruckus/TeamCode/build/intermediates/res/merged/debug/layout_digital_device.xml.flat",
-        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/7f0f3f78b7628aa378b80a8a05cc7c67/res/layout/digital_device.xml"
+        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/baee1c9a5a052bf55b9feaf0bbe6a48e/res/layout/digital_device.xml"
     },
     {
         "merged": "/Users/eharwood/Documents/FTC/2018-2019 Season/Programming/Rover-Ruckus/TeamCode/build/intermediates/res/merged/debug/layout_item_list_parent.xml.flat",
-        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/7f0f3f78b7628aa378b80a8a05cc7c67/res/layout/item_list_parent.xml"
+        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/baee1c9a5a052bf55b9feaf0bbe6a48e/res/layout/item_list_parent.xml"
     },
     {
         "merged": "/Users/eharwood/Documents/FTC/2018-2019 Season/Programming/Rover-Ruckus/TeamCode/build/intermediates/res/merged/debug/layout_device_interface_module.xml.flat",
-        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/7f0f3f78b7628aa378b80a8a05cc7c67/res/layout/device_interface_module.xml"
+        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/baee1c9a5a052bf55b9feaf0bbe6a48e/res/layout/device_interface_module.xml"
     },
     {
         "merged": "/Users/eharwood/Documents/FTC/2018-2019 Season/Programming/Rover-Ruckus/TeamCode/build/intermediates/res/merged/debug/layout_activity_ftc_wifi_remembered_groups.xml.flat",
-        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/7f0f3f78b7628aa378b80a8a05cc7c67/res/layout/activity_ftc_wifi_remembered_groups.xml"
+        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/baee1c9a5a052bf55b9feaf0bbe6a48e/res/layout/activity_ftc_wifi_remembered_groups.xml"
     },
     {
         "merged": "/Users/eharwood/Documents/FTC/2018-2019 Season/Programming/Rover-Ruckus/TeamCode/build/intermediates/res/merged/debug/drawable-xhdpi-v4_icon_robotcontroller.png.flat",
@@ -101,27 +105,31 @@
     },
     {
         "merged": "/Users/eharwood/Documents/FTC/2018-2019 Season/Programming/Rover-Ruckus/TeamCode/build/intermediates/res/merged/debug/xml_pushbotsens.xml.flat",
-        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/7f0f3f78b7628aa378b80a8a05cc7c67/res/xml/pushbotsens.xml"
+        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/baee1c9a5a052bf55b9feaf0bbe6a48e/res/xml/pushbotsens.xml"
     },
     {
         "merged": "/Users/eharwood/Documents/FTC/2018-2019 Season/Programming/Rover-Ruckus/TeamCode/build/intermediates/res/merged/debug/layout_info_button.xml.flat",
-        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/7f0f3f78b7628aa378b80a8a05cc7c67/res/layout/info_button.xml"
+        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/baee1c9a5a052bf55b9feaf0bbe6a48e/res/layout/info_button.xml"
     },
     {
         "merged": "/Users/eharwood/Documents/FTC/2018-2019 Season/Programming/Rover-Ruckus/TeamCode/build/intermediates/res/merged/debug/layout_fragment_wifi_mute.xml.flat",
-        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/RobotCore-release.aar/ca4e5f2aea515fef58494ce5f0271da1/res/layout/fragment_wifi_mute.xml"
+        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/RobotCore-release.aar/ebbf35929b02e8e30346dee0a88c24a5/res/layout/fragment_wifi_mute.xml"
+    },
+    {
+        "merged": "/Users/eharwood/Documents/FTC/2018-2019 Season/Programming/Rover-Ruckus/TeamCode/build/intermediates/res/merged/debug/raw_readme.md.flat",
+        "source": "/Users/eharwood/Documents/FTC/2018-2019 Season/Programming/Rover-Ruckus/TeamCode/src/main/res/raw/readme.md"
     },
     {
         "merged": "/Users/eharwood/Documents/FTC/2018-2019 Season/Programming/Rover-Ruckus/TeamCode/build/intermediates/res/merged/debug/layout_i2cs.xml.flat",
-        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/7f0f3f78b7628aa378b80a8a05cc7c67/res/layout/i2cs.xml"
+        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/baee1c9a5a052bf55b9feaf0bbe6a48e/res/layout/i2cs.xml"
     },
     {
         "merged": "/Users/eharwood/Documents/FTC/2018-2019 Season/Programming/Rover-Ruckus/TeamCode/build/intermediates/res/merged/debug/layout_analog_inputs.xml.flat",
-        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/7f0f3f78b7628aa378b80a8a05cc7c67/res/layout/analog_inputs.xml"
+        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/baee1c9a5a052bf55b9feaf0bbe6a48e/res/layout/analog_inputs.xml"
     },
     {
         "merged": "/Users/eharwood/Documents/FTC/2018-2019 Season/Programming/Rover-Ruckus/TeamCode/build/intermediates/res/merged/debug/layout_simple_device.xml.flat",
-        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/7f0f3f78b7628aa378b80a8a05cc7c67/res/layout/simple_device.xml"
+        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/baee1c9a5a052bf55b9feaf0bbe6a48e/res/layout/simple_device.xml"
     },
     {
         "merged": "/Users/eharwood/Documents/FTC/2018-2019 Season/Programming/Rover-Ruckus/TeamCode/build/intermediates/res/merged/debug/xml_device_filter.xml.flat",
@@ -133,39 +141,43 @@
     },
     {
         "merged": "/Users/eharwood/Documents/FTC/2018-2019 Season/Programming/Rover-Ruckus/TeamCode/build/intermediates/res/merged/debug/layout_pwms.xml.flat",
-        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/7f0f3f78b7628aa378b80a8a05cc7c67/res/layout/pwms.xml"
+        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/baee1c9a5a052bf55b9feaf0bbe6a48e/res/layout/pwms.xml"
     },
     {
         "merged": "/Users/eharwood/Documents/FTC/2018-2019 Season/Programming/Rover-Ruckus/TeamCode/build/intermediates/res/merged/debug/layout_header.xml.flat",
-        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/7f0f3f78b7628aa378b80a8a05cc7c67/res/layout/header.xml"
+        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/baee1c9a5a052bf55b9feaf0bbe6a48e/res/layout/header.xml"
     },
     {
         "merged": "/Users/eharwood/Documents/FTC/2018-2019 Season/Programming/Rover-Ruckus/TeamCode/build/intermediates/res/merged/debug/layout_activity_ftc_configuration.xml.flat",
-        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/7f0f3f78b7628aa378b80a8a05cc7c67/res/layout/activity_ftc_configuration.xml"
+        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/baee1c9a5a052bf55b9feaf0bbe6a48e/res/layout/activity_ftc_configuration.xml"
     },
     {
         "merged": "/Users/eharwood/Documents/FTC/2018-2019 Season/Programming/Rover-Ruckus/TeamCode/build/intermediates/res/merged/debug/xml_ftc_about_activity.xml.flat",
-        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/7f0f3f78b7628aa378b80a8a05cc7c67/res/xml/ftc_about_activity.xml"
+        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/baee1c9a5a052bf55b9feaf0bbe6a48e/res/xml/ftc_about_activity.xml"
     },
     {
         "merged": "/Users/eharwood/Documents/FTC/2018-2019 Season/Programming/Rover-Ruckus/TeamCode/build/intermediates/res/merged/debug/raw_errormessage.wav.flat",
-        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/7f0f3f78b7628aa378b80a8a05cc7c67/res/raw/errormessage.wav"
+        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/baee1c9a5a052bf55b9feaf0bbe6a48e/res/raw/errormessage.wav"
     },
     {
         "merged": "/Users/eharwood/Documents/FTC/2018-2019 Season/Programming/Rover-Ruckus/TeamCode/build/intermediates/res/merged/debug/drawable_black_border.xml.flat",
-        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/Blocks-release.aar/c99ce5b3aedc83d3d9a22e2cceb27f7b/res/drawable/black_border.xml"
+        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/Blocks-release.aar/b691d5e015796c1188e0a19e60c49f0e/res/drawable/black_border.xml"
     },
     {
         "merged": "/Users/eharwood/Documents/FTC/2018-2019 Season/Programming/Rover-Ruckus/TeamCode/build/intermediates/res/merged/debug/layout_banner_parent.xml.flat",
-        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/7f0f3f78b7628aa378b80a8a05cc7c67/res/layout/banner_parent.xml"
+        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/baee1c9a5a052bf55b9feaf0bbe6a48e/res/layout/banner_parent.xml"
     },
     {
         "merged": "/Users/eharwood/Documents/FTC/2018-2019 Season/Programming/Rover-Ruckus/TeamCode/build/intermediates/res/merged/debug/xml_k9legacybot.xml.flat",
-        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/7f0f3f78b7628aa378b80a8a05cc7c67/res/xml/k9legacybot.xml"
+        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/baee1c9a5a052bf55b9feaf0bbe6a48e/res/xml/k9legacybot.xml"
     },
     {
         "merged": "/Users/eharwood/Documents/FTC/2018-2019 Season/Programming/Rover-Ruckus/TeamCode/build/intermediates/res/merged/debug/xml_app_settings.xml.flat",
         "source": "/Users/eharwood/Documents/FTC/2018-2019 Season/Programming/Rover-Ruckus/FtcRobotController/build/intermediates/packaged_res/debug/xml/app_settings.xml"
+    },
+    {
+        "merged": "/Users/eharwood/Documents/FTC/2018-2019 Season/Programming/Rover-Ruckus/TeamCode/build/intermediates/res/merged/debug/raw_silver.wav.flat",
+        "source": "/Users/eharwood/Documents/FTC/2018-2019 Season/Programming/Rover-Ruckus/FtcRobotController/build/intermediates/packaged_res/debug/raw/silver.wav"
     },
     {
         "merged": "/Users/eharwood/Documents/FTC/2018-2019 Season/Programming/Rover-Ruckus/TeamCode/build/intermediates/res/merged/debug/drawable-hdpi-v4_ic_launcher.png.flat",
@@ -173,19 +185,19 @@
     },
     {
         "merged": "/Users/eharwood/Documents/FTC/2018-2019 Season/Programming/Rover-Ruckus/TeamCode/build/intermediates/res/merged/debug/layout_port_attached_row.xml.flat",
-        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/7f0f3f78b7628aa378b80a8a05cc7c67/res/layout/port_attached_row.xml"
+        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/baee1c9a5a052bf55b9feaf0bbe6a48e/res/layout/port_attached_row.xml"
     },
     {
         "merged": "/Users/eharwood/Documents/FTC/2018-2019 Season/Programming/Rover-Ruckus/TeamCode/build/intermediates/res/merged/debug/drawable-hdpi-v4_button_shape.xml.flat",
-        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/7f0f3f78b7628aa378b80a8a05cc7c67/res/drawable-hdpi-v4/button_shape.xml"
+        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/baee1c9a5a052bf55b9feaf0bbe6a48e/res/drawable-hdpi-v4/button_shape.xml"
     },
     {
         "merged": "/Users/eharwood/Documents/FTC/2018-2019 Season/Programming/Rover-Ruckus/TeamCode/build/intermediates/res/merged/debug/layout_activity_swap_usb_devices.xml.flat",
-        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/7f0f3f78b7628aa378b80a8a05cc7c67/res/layout/activity_swap_usb_devices.xml"
+        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/baee1c9a5a052bf55b9feaf0bbe6a48e/res/layout/activity_swap_usb_devices.xml"
     },
     {
         "merged": "/Users/eharwood/Documents/FTC/2018-2019 Season/Programming/Rover-Ruckus/TeamCode/build/intermediates/res/merged/debug/layout_analog_output_device.xml.flat",
-        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/7f0f3f78b7628aa378b80a8a05cc7c67/res/layout/analog_output_device.xml"
+        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/baee1c9a5a052bf55b9feaf0bbe6a48e/res/layout/analog_output_device.xml"
     },
     {
         "merged": "/Users/eharwood/Documents/FTC/2018-2019 Season/Programming/Rover-Ruckus/TeamCode/build/intermediates/res/merged/debug/drawable-mdpi-v4_ic_launcher.png.flat",
@@ -197,27 +209,27 @@
     },
     {
         "merged": "/Users/eharwood/Documents/FTC/2018-2019 Season/Programming/Rover-Ruckus/TeamCode/build/intermediates/res/merged/debug/xml_rev_scoot.xml.flat",
-        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/7f0f3f78b7628aa378b80a8a05cc7c67/res/xml/rev_scoot.xml"
+        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/baee1c9a5a052bf55b9feaf0bbe6a48e/res/xml/rev_scoot.xml"
     },
     {
         "merged": "/Users/eharwood/Documents/FTC/2018-2019 Season/Programming/Rover-Ruckus/TeamCode/build/intermediates/res/merged/debug/raw_chimeconnect.wav.flat",
-        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/7f0f3f78b7628aa378b80a8a05cc7c67/res/raw/chimeconnect.wav"
+        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/baee1c9a5a052bf55b9feaf0bbe6a48e/res/raw/chimeconnect.wav"
     },
     {
         "merged": "/Users/eharwood/Documents/FTC/2018-2019 Season/Programming/Rover-Ruckus/TeamCode/build/intermediates/res/merged/debug/layout_legacy.xml.flat",
-        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/7f0f3f78b7628aa378b80a8a05cc7c67/res/layout/legacy.xml"
+        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/baee1c9a5a052bf55b9feaf0bbe6a48e/res/layout/legacy.xml"
     },
     {
         "merged": "/Users/eharwood/Documents/FTC/2018-2019 Season/Programming/Rover-Ruckus/TeamCode/build/intermediates/res/merged/debug/drawable_icon_robotcontroller.png.flat",
-        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/Inspection-release.aar/dce80863aab06a7652e65d77d0da1267/res/drawable/icon_robotcontroller.png"
+        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/Inspection-release.aar/6ea0aff246f737cd48a6b61f452118a5/res/drawable/icon_robotcontroller.png"
     },
     {
         "merged": "/Users/eharwood/Documents/FTC/2018-2019 Season/Programming/Rover-Ruckus/TeamCode/build/intermediates/res/merged/debug/layout_digital_device_lynx.xml.flat",
-        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/7f0f3f78b7628aa378b80a8a05cc7c67/res/layout/digital_device_lynx.xml"
+        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/baee1c9a5a052bf55b9feaf0bbe6a48e/res/layout/digital_device_lynx.xml"
     },
     {
         "merged": "/Users/eharwood/Documents/FTC/2018-2019 Season/Programming/Rover-Ruckus/TeamCode/build/intermediates/res/merged/debug/layout_activity_load.xml.flat",
-        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/7f0f3f78b7628aa378b80a8a05cc7c67/res/layout/activity_load.xml"
+        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/baee1c9a5a052bf55b9feaf0bbe6a48e/res/layout/activity_load.xml"
     },
     {
         "merged": "/Users/eharwood/Documents/FTC/2018-2019 Season/Programming/Rover-Ruckus/TeamCode/build/intermediates/res/merged/debug/menu_ftc_robot_controller.xml.flat",
@@ -225,7 +237,7 @@
     },
     {
         "merged": "/Users/eharwood/Documents/FTC/2018-2019 Season/Programming/Rover-Ruckus/TeamCode/build/intermediates/res/merged/debug/menu_main_menu.xml.flat",
-        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/Inspection-release.aar/dce80863aab06a7652e65d77d0da1267/res/menu/main_menu.xml"
+        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/Inspection-release.aar/6ea0aff246f737cd48a6b61f452118a5/res/menu/main_menu.xml"
     },
     {
         "merged": "/Users/eharwood/Documents/FTC/2018-2019 Season/Programming/Rover-Ruckus/TeamCode/build/intermediates/res/merged/debug/layout_activity_ftc_controller.xml.flat",
@@ -233,11 +245,11 @@
     },
     {
         "merged": "/Users/eharwood/Documents/FTC/2018-2019 Season/Programming/Rover-Ruckus/TeamCode/build/intermediates/res/merged/debug/raw_nxtstartupsound.wav.flat",
-        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/7f0f3f78b7628aa378b80a8a05cc7c67/res/raw/nxtstartupsound.wav"
+        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/baee1c9a5a052bf55b9feaf0bbe6a48e/res/raw/nxtstartupsound.wav"
     },
     {
         "merged": "/Users/eharwood/Documents/FTC/2018-2019 Season/Programming/Rover-Ruckus/TeamCode/build/intermediates/res/merged/debug/layout_servo.xml.flat",
-        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/7f0f3f78b7628aa378b80a8a05cc7c67/res/layout/servo.xml"
+        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/baee1c9a5a052bf55b9feaf0bbe6a48e/res/layout/servo.xml"
     },
     {
         "merged": "/Users/eharwood/Documents/FTC/2018-2019 Season/Programming/Rover-Ruckus/TeamCode/build/intermediates/res/merged/debug/drawable-xhdpi-v4_ic_launcher.png.flat",
@@ -245,79 +257,79 @@
     },
     {
         "merged": "/Users/eharwood/Documents/FTC/2018-2019 Season/Programming/Rover-Ruckus/TeamCode/build/intermediates/res/merged/debug/layout_file_info.xml.flat",
-        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/7f0f3f78b7628aa378b80a8a05cc7c67/res/layout/file_info.xml"
+        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/baee1c9a5a052bf55b9feaf0bbe6a48e/res/layout/file_info.xml"
     },
     {
         "merged": "/Users/eharwood/Documents/FTC/2018-2019 Season/Programming/Rover-Ruckus/TeamCode/build/intermediates/res/merged/debug/layout_servo_controller_banner.xml.flat",
-        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/7f0f3f78b7628aa378b80a8a05cc7c67/res/layout/servo_controller_banner.xml"
+        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/baee1c9a5a052bf55b9feaf0bbe6a48e/res/layout/servo_controller_banner.xml"
     },
     {
         "merged": "/Users/eharwood/Documents/FTC/2018-2019 Season/Programming/Rover-Ruckus/TeamCode/build/intermediates/res/merged/debug/layout_color_list_preference_line_item.xml.flat",
-        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/RobotCore-release.aar/ca4e5f2aea515fef58494ce5f0271da1/res/layout/color_list_preference_line_item.xml"
+        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/RobotCore-release.aar/ebbf35929b02e8e30346dee0a88c24a5/res/layout/color_list_preference_line_item.xml"
     },
     {
         "merged": "/Users/eharwood/Documents/FTC/2018-2019 Season/Programming/Rover-Ruckus/TeamCode/build/intermediates/res/merged/debug/layout_lynx_usb_device.xml.flat",
-        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/7f0f3f78b7628aa378b80a8a05cc7c67/res/layout/lynx_usb_device.xml"
+        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/baee1c9a5a052bf55b9feaf0bbe6a48e/res/layout/lynx_usb_device.xml"
     },
     {
         "merged": "/Users/eharwood/Documents/FTC/2018-2019 Season/Programming/Rover-Ruckus/TeamCode/build/intermediates/res/merged/debug/layout_motor.xml.flat",
-        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/7f0f3f78b7628aa378b80a8a05cc7c67/res/layout/motor.xml"
+        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/baee1c9a5a052bf55b9feaf0bbe6a48e/res/layout/motor.xml"
     },
     {
         "merged": "/Users/eharwood/Documents/FTC/2018-2019 Season/Programming/Rover-Ruckus/TeamCode/build/intermediates/res/merged/debug/layout_activity_configure_from_template.xml.flat",
-        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/7f0f3f78b7628aa378b80a8a05cc7c67/res/layout/activity_configure_from_template.xml"
+        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/baee1c9a5a052bf55b9feaf0bbe6a48e/res/layout/activity_configure_from_template.xml"
     },
     {
         "merged": "/Users/eharwood/Documents/FTC/2018-2019 Season/Programming/Rover-Ruckus/TeamCode/build/intermediates/res/merged/debug/layout_pwm_device.xml.flat",
-        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/7f0f3f78b7628aa378b80a8a05cc7c67/res/layout/pwm_device.xml"
+        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/baee1c9a5a052bf55b9feaf0bbe6a48e/res/layout/pwm_device.xml"
     },
     {
         "merged": "/Users/eharwood/Documents/FTC/2018-2019 Season/Programming/Rover-Ruckus/TeamCode/build/intermediates/res/merged/debug/xml_ftc_about_activity_rc.xml.flat",
-        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/7f0f3f78b7628aa378b80a8a05cc7c67/res/xml/ftc_about_activity_rc.xml"
+        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/baee1c9a5a052bf55b9feaf0bbe6a48e/res/xml/ftc_about_activity_rc.xml"
     },
     {
         "merged": "/Users/eharwood/Documents/FTC/2018-2019 Season/Programming/Rover-Ruckus/TeamCode/build/intermediates/res/merged/debug/layout_analog_input_device.xml.flat",
-        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/7f0f3f78b7628aa378b80a8a05cc7c67/res/layout/analog_input_device.xml"
+        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/baee1c9a5a052bf55b9feaf0bbe6a48e/res/layout/analog_input_device.xml"
     },
     {
         "merged": "/Users/eharwood/Documents/FTC/2018-2019 Season/Programming/Rover-Ruckus/TeamCode/build/intermediates/res/merged/debug/drawable_button_shape.xml.flat",
-        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/7f0f3f78b7628aa378b80a8a05cc7c67/res/drawable/button_shape.xml"
+        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/baee1c9a5a052bf55b9feaf0bbe6a48e/res/drawable/button_shape.xml"
     },
     {
         "merged": "/Users/eharwood/Documents/FTC/2018-2019 Season/Programming/Rover-Ruckus/TeamCode/build/intermediates/res/merged/debug/drawable_icon_menu.png.flat",
-        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/Inspection-release.aar/dce80863aab06a7652e65d77d0da1267/res/drawable/icon_menu.png"
+        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/Inspection-release.aar/6ea0aff246f737cd48a6b61f452118a5/res/drawable/icon_menu.png"
     },
     {
         "merged": "/Users/eharwood/Documents/FTC/2018-2019 Season/Programming/Rover-Ruckus/TeamCode/build/intermediates/res/merged/debug/layout_activity_blocks.xml.flat",
-        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/Blocks-release.aar/c99ce5b3aedc83d3d9a22e2cceb27f7b/res/layout/activity_blocks.xml"
+        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/Blocks-release.aar/b691d5e015796c1188e0a19e60c49f0e/res/layout/activity_blocks.xml"
     },
     {
         "merged": "/Users/eharwood/Documents/FTC/2018-2019 Season/Programming/Rover-Ruckus/TeamCode/build/intermediates/res/merged/debug/xml_pushbot.xml.flat",
-        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/7f0f3f78b7628aa378b80a8a05cc7c67/res/xml/pushbot.xml"
+        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/baee1c9a5a052bf55b9feaf0bbe6a48e/res/xml/pushbot.xml"
     },
     {
         "merged": "/Users/eharwood/Documents/FTC/2018-2019 Season/Programming/Rover-Ruckus/TeamCode/build/intermediates/res/merged/debug/layout_activity_ftc_wifi_channel_selector.xml.flat",
-        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/7f0f3f78b7628aa378b80a8a05cc7c67/res/layout/activity_ftc_wifi_channel_selector.xml"
+        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/baee1c9a5a052bf55b9feaf0bbe6a48e/res/layout/activity_ftc_wifi_channel_selector.xml"
     },
     {
         "merged": "/Users/eharwood/Documents/FTC/2018-2019 Season/Programming/Rover-Ruckus/TeamCode/build/intermediates/res/merged/debug/layout_digital_devices.xml.flat",
-        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/7f0f3f78b7628aa378b80a8a05cc7c67/res/layout/digital_devices.xml"
+        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/baee1c9a5a052bf55b9feaf0bbe6a48e/res/layout/digital_devices.xml"
     },
     {
         "merged": "/Users/eharwood/Documents/FTC/2018-2019 Season/Programming/Rover-Ruckus/TeamCode/build/intermediates/res/merged/debug/raw_warningmessage.wav.flat",
-        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/7f0f3f78b7628aa378b80a8a05cc7c67/res/raw/warningmessage.wav"
+        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/baee1c9a5a052bf55b9feaf0bbe6a48e/res/raw/warningmessage.wav"
     },
     {
         "merged": "/Users/eharwood/Documents/FTC/2018-2019 Season/Programming/Rover-Ruckus/TeamCode/build/intermediates/res/merged/debug/xml_builtinwebcamcalibrations.xml.flat",
-        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/RobotCore-release.aar/ca4e5f2aea515fef58494ce5f0271da1/res/xml/builtinwebcamcalibrations.xml"
+        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/RobotCore-release.aar/ebbf35929b02e8e30346dee0a88c24a5/res/xml/builtinwebcamcalibrations.xml"
     },
     {
         "merged": "/Users/eharwood/Documents/FTC/2018-2019 Season/Programming/Rover-Ruckus/TeamCode/build/intermediates/res/merged/debug/layout_activity_inspection.xml.flat",
-        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/Inspection-release.aar/dce80863aab06a7652e65d77d0da1267/res/layout/activity_inspection.xml"
+        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/Inspection-release.aar/6ea0aff246f737cd48a6b61f452118a5/res/layout/activity_inspection.xml"
     },
     {
         "merged": "/Users/eharwood/Documents/FTC/2018-2019 Season/Programming/Rover-Ruckus/TeamCode/build/intermediates/res/merged/debug/raw_cube_mesh_vertex_shader.glsl.flat",
-        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/RobotCore-release.aar/ca4e5f2aea515fef58494ce5f0271da1/res/raw/cube_mesh_vertex_shader.glsl"
+        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/RobotCore-release.aar/ebbf35929b02e8e30346dee0a88c24a5/res/raw/cube_mesh_vertex_shader.glsl"
     },
     {
         "merged": "/Users/eharwood/Documents/FTC/2018-2019 Season/Programming/Rover-Ruckus/TeamCode/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_ic_launcher.png.flat",
@@ -325,70 +337,70 @@
     },
     {
         "merged": "/Users/eharwood/Documents/FTC/2018-2019 Season/Programming/Rover-Ruckus/TeamCode/build/intermediates/res/merged/debug/layout_feedback.xml.flat",
-        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/RobotCore-release.aar/ca4e5f2aea515fef58494ce5f0271da1/res/layout/feedback.xml"
+        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/RobotCore-release.aar/ebbf35929b02e8e30346dee0a88c24a5/res/layout/feedback.xml"
     },
     {
         "merged": "/Users/eharwood/Documents/FTC/2018-2019 Season/Programming/Rover-Ruckus/TeamCode/build/intermediates/res/merged/debug/xml_squarebot.xml.flat",
-        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/7f0f3f78b7628aa378b80a8a05cc7c67/res/xml/squarebot.xml"
+        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/baee1c9a5a052bf55b9feaf0bbe6a48e/res/xml/squarebot.xml"
     },
     {
         "merged": "/Users/eharwood/Documents/FTC/2018-2019 Season/Programming/Rover-Ruckus/TeamCode/build/intermediates/res/merged/debug/xml_maxmodules.xml.flat",
-        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/7f0f3f78b7628aa378b80a8a05cc7c67/res/xml/maxmodules.xml"
+        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/baee1c9a5a052bf55b9feaf0bbe6a48e/res/xml/maxmodules.xml"
     },
     {
         "merged": "/Users/eharwood/Documents/FTC/2018-2019 Season/Programming/Rover-Ruckus/TeamCode/build/intermediates/res/merged/debug/layout_activity_generic_settings.xml.flat",
-        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/7f0f3f78b7628aa378b80a8a05cc7c67/res/layout/activity_generic_settings.xml"
+        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/baee1c9a5a052bf55b9feaf0bbe6a48e/res/layout/activity_generic_settings.xml"
     },
     {
         "merged": "/Users/eharwood/Documents/FTC/2018-2019 Season/Programming/Rover-Ruckus/TeamCode/build/intermediates/res/merged/debug/layout_activity_ftc_lynx_fw_update.xml.flat",
-        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/7f0f3f78b7628aa378b80a8a05cc7c67/res/layout/activity_ftc_lynx_fw_update.xml"
+        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/baee1c9a5a052bf55b9feaf0bbe6a48e/res/layout/activity_ftc_lynx_fw_update.xml"
     },
     {
         "merged": "/Users/eharwood/Documents/FTC/2018-2019 Season/Programming/Rover-Ruckus/TeamCode/build/intermediates/res/merged/debug/layout_activity_config_wifi_direct.xml.flat",
-        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/7f0f3f78b7628aa378b80a8a05cc7c67/res/layout/activity_config_wifi_direct.xml"
+        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/baee1c9a5a052bf55b9feaf0bbe6a48e/res/layout/activity_config_wifi_direct.xml"
     },
     {
         "merged": "/Users/eharwood/Documents/FTC/2018-2019 Season/Programming/Rover-Ruckus/TeamCode/build/intermediates/res/merged/debug/layout_matrices.xml.flat",
-        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/7f0f3f78b7628aa378b80a8a05cc7c67/res/layout/matrices.xml"
+        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/baee1c9a5a052bf55b9feaf0bbe6a48e/res/layout/matrices.xml"
     },
     {
         "merged": "/Users/eharwood/Documents/FTC/2018-2019 Season/Programming/Rover-Ruckus/TeamCode/build/intermediates/res/merged/debug/layout_i2c_device.xml.flat",
-        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/7f0f3f78b7628aa378b80a8a05cc7c67/res/layout/i2c_device.xml"
+        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/baee1c9a5a052bf55b9feaf0bbe6a48e/res/layout/i2c_device.xml"
     },
     {
         "merged": "/Users/eharwood/Documents/FTC/2018-2019 Season/Programming/Rover-Ruckus/TeamCode/build/intermediates/res/merged/debug/raw_simple_vertex_shader.glsl.flat",
-        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/RobotCore-release.aar/ca4e5f2aea515fef58494ce5f0271da1/res/raw/simple_vertex_shader.glsl"
+        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/RobotCore-release.aar/ebbf35929b02e8e30346dee0a88c24a5/res/raw/simple_vertex_shader.glsl"
     },
     {
         "merged": "/Users/eharwood/Documents/FTC/2018-2019 Season/Programming/Rover-Ruckus/TeamCode/build/intermediates/res/merged/debug/layout_red_line.xml.flat",
-        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/7f0f3f78b7628aa378b80a8a05cc7c67/res/layout/red_line.xml"
+        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/baee1c9a5a052bf55b9feaf0bbe6a48e/res/layout/red_line.xml"
     },
     {
         "merged": "/Users/eharwood/Documents/FTC/2018-2019 Season/Programming/Rover-Ruckus/TeamCode/build/intermediates/res/merged/debug/raw_texture_fragment_shader.glsl.flat",
-        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/RobotCore-release.aar/ca4e5f2aea515fef58494ce5f0271da1/res/raw/texture_fragment_shader.glsl"
+        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/RobotCore-release.aar/ebbf35929b02e8e30346dee0a88c24a5/res/raw/texture_fragment_shader.glsl"
     },
     {
         "merged": "/Users/eharwood/Documents/FTC/2018-2019 Season/Programming/Rover-Ruckus/TeamCode/build/intermediates/res/merged/debug/layout_lynx_module.xml.flat",
-        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/7f0f3f78b7628aa378b80a8a05cc7c67/res/layout/lynx_module.xml"
+        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/baee1c9a5a052bf55b9feaf0bbe6a48e/res/layout/lynx_module.xml"
     },
     {
         "merged": "/Users/eharwood/Documents/FTC/2018-2019 Season/Programming/Rover-Ruckus/TeamCode/build/intermediates/res/merged/debug/layout_activity_program_and_manage.xml.flat",
-        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/7f0f3f78b7628aa378b80a8a05cc7c67/res/layout/activity_program_and_manage.xml"
+        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/baee1c9a5a052bf55b9feaf0bbe6a48e/res/layout/activity_program_and_manage.xml"
     },
     {
         "merged": "/Users/eharwood/Documents/FTC/2018-2019 Season/Programming/Rover-Ruckus/TeamCode/build/intermediates/res/merged/debug/raw_color_fragment_shader.glsl.flat",
-        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/RobotCore-release.aar/ca4e5f2aea515fef58494ce5f0271da1/res/raw/color_fragment_shader.glsl"
+        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/RobotCore-release.aar/ebbf35929b02e8e30346dee0a88c24a5/res/raw/color_fragment_shader.glsl"
     },
     {
         "merged": "/Users/eharwood/Documents/FTC/2018-2019 Season/Programming/Rover-Ruckus/TeamCode/build/intermediates/res/merged/debug/layout_template_info.xml.flat",
-        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/7f0f3f78b7628aa378b80a8a05cc7c67/res/layout/template_info.xml"
+        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/baee1c9a5a052bf55b9feaf0bbe6a48e/res/layout/template_info.xml"
     },
     {
         "merged": "/Users/eharwood/Documents/FTC/2018-2019 Season/Programming/Rover-Ruckus/TeamCode/build/intermediates/res/merged/debug/layout_activity_programming_mode.xml.flat",
-        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/Blocks-release.aar/c99ce5b3aedc83d3d9a22e2cceb27f7b/res/layout/activity_programming_mode.xml"
+        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/Blocks-release.aar/b691d5e015796c1188e0a19e60c49f0e/res/layout/activity_programming_mode.xml"
     },
     {
         "merged": "/Users/eharwood/Documents/FTC/2018-2019 Season/Programming/Rover-Ruckus/TeamCode/build/intermediates/res/merged/debug/layout_button_list.xml.flat",
-        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/7f0f3f78b7628aa378b80a8a05cc7c67/res/layout/button_list.xml"
+        "source": "/Users/eharwood/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/baee1c9a5a052bf55b9feaf0bbe6a48e/res/layout/button_list.xml"
     }
 ]

@@ -250,6 +250,7 @@ id menu_buttons
 id moduleAddressText
 id moduleList
 id moduleSerialText
+id monitorContainer
 id motors_title
 id network_name
 id new_button
@@ -317,6 +318,7 @@ id textView7
 id textView8
 id textView9
 id textViewHubFirmware
+id tfodMonitorViewId
 id titleTextView
 id top_bar
 id trafficCount
@@ -401,7 +403,10 @@ raw cube_mesh_fragment_shader
 raw cube_mesh_vertex_shader
 raw errormessage
 raw format_convert
+raw gold
 raw nxtstartupsound
+raw readme
+raw silver
 raw simple_vertex_shader
 raw texture_fragment_shader
 raw texture_vertex_shader
@@ -864,6 +869,8 @@ string rev_core_hex_name
 string rev_distributor
 string rev_laser_sensor_description
 string rev_laser_sensor_name
+string rev_spark_mini_description
+string rev_spark_mini_name
 string rev_touch_sensor_description
 string robotControllerAppUpdateReadme
 string robotStateEmergencyStop
