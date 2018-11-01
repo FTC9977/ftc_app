@@ -33,7 +33,7 @@ public class DoubleSampleV1 extends LinearOpMode {
 
         // Initialize the hardware variables
         // Note, that the strings used here as parameters
-        //  to 'get' must correspond to thenames assigned during the robot configuration
+        //  to 'get' must correspond to the names assigned during the robot configuration
 
         detector = new GoldAlignDetector();
         detector.init(hardwareMap.appContext, CameraViewDisplay.getInstance());
@@ -65,13 +65,33 @@ public class DoubleSampleV1 extends LinearOpMode {
 
         //  AUTO START //
 
-        moveEncoder(200, - 200, 0.4);
+        /*
+         * This main section of the Autonomous program that will execute a series of movements using motor encoders
+         * to navigate the field safely.  Please note, this is an example, and not competition code.  There is no
+         * obsticle avoidance (i.e other robots, etc..) routines that are used.
+         *
+         * Its main purpose is to detect both gold minerals at both positions for a single alliance side (see field layout).
+         */
+
+        moveEncoder(200, - 200, 0.4);  //  Input Format:  ticksLeft, ticksRight, Speed)
         while( motorsBusy() && !isStopRequested()) {
+
+            /* Method Details
+             *
+             *  Using a while loop, perform the following checks:
+             *
+             *  1. Call motorsBusy() method, check to see if all motors are busy   AND (&&)
+             *  2. Call !isStopRequested() method, check to see if "Has the stopping of the opMode been requested??"
+             *      Note:  This method is contained in the LineerOpMode() class
+             *  3. Update Driver Station with a STATUS
+             */
+
             telemetry.addData("Status", "Turning");
             telemetry.update();
         }
+        setAllMotors(0);                        //  Turn all motors off once tickCounts have been reached.
 
-        setAllMotors(0);
+
         moveEncoder(1000, 1000, 0.4);
         while (motorsBusy() && !isStopRequested()){
             telemetry.addData("Status", "Turning");
@@ -93,14 +113,28 @@ public class DoubleSampleV1 extends LinearOpMode {
         }
         setAllMotors(0);
 
+        // Declare a variable that records the encoders currnet Position.  This will be used later..
+        //
         int tickRef  = leftFront.getCurrentPosition();
         moveEncoder(2500,2500, .2);
 
         while(detector.getAligned() == false && motorsBusy() && !isStopRequested()) {
+
+            /* Loop details:
+             *
+             *  Execute moveEncoder() method, while:
+             *          - detector.getAligned() = FALSE   (i.e not aligned with gold mineral)
+             *    AND   - motorsBust() = TRUE
+             *    AND   - !isStopRequested = FALSE
+             */
              telemetry.addData("Aligned", detector.getXPosition());
              telemetry.update();
         }
-
+         /*
+          *   Once the while loop breaks out of its control, which will be due detector.getAligned = TRUE  (i.e. were lined up with gold detector)
+          *   Then declare a variable ticksLeft = 2500 - (leftFront.getCurrentPosition() - tickRef)
+          *
+          */
         int ticksLeft = 2500 - ( leftFront.getCurrentPosition() - tickRef);
         setAllMotors(0);
 
@@ -210,6 +244,12 @@ public class DoubleSampleV1 extends LinearOpMode {
     }
 
     private boolean motorsBusy() {
+
+        /*  This method checks all motors to see if they are busy.
+         *
+         *   If all motors are, returns = TRUE
+         *   If all motors are not, returns = FALSE
+         */
         return leftFront.isBusy() && leftRear.isBusy() && rightFront.isBusy() && rightRear.isBusy();
     }
 
