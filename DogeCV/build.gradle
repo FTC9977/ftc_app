@@ -1,11 +1,11 @@
 apply plugin: 'com.android.library'
 
 android {
-    compileSdkVersion 27
-    buildToolsVersion '28.0.2'
+    compileSdkVersion 23
+    buildToolsVersion '28.0.3'
 
     defaultConfig {
-        minSdkVersion 21
+        minSdkVersion 19
         targetSdkVersion 27
         versionCode 1
         versionName "1.0"
@@ -27,5 +27,5 @@ repositories {
 dependencies {
     implementation fileTree(include: ['*.jar'], dir: 'libs')
     implementation project(path: ':openCVLibrary3')
-    implementation project(':FtcRobotController')
+    implementation (name: 'RobotCore-release', ext: 'aar')
 }
