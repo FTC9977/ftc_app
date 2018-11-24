@@ -116,8 +116,22 @@
 
 Student WorkFlow:
 
+Students should follow these steps to sync their Andriod studio to the master branch:
 
-1. Load Andriod Studio, and open Rover-Ruckus Project.
-2. Update your local Project code base using the VCS Update option
 
-    a. Select VCS --> Update Project
+1. Open up Andriod Studio
+2. Select VCS --> Git --> Pull
+3. At the Pull Changes Window, verify the following:
+
+    Git Root = /Users/caleb/Documents/FTC/2018-19 Season/Programming
+    Current Branch = calebs-branch
+    Remote = origin(https://github.com/FTC9977/ftc_app.git)
+
+    Branches to Merge = set a checkbox to:
+      origin/master
+
+    Strategy = default
+
+
+4. Select "pull"
+5. You should now
