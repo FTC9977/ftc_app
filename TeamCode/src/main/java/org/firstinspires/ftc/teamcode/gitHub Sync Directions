@@ -112,12 +112,3 @@
 	 10. Your Now done with the CLONING portion of the setup.
 
 
-=======================================================================================================
-
-Student WorkFlow:
-
-
-1. Load Andriod Studio, and open Rover-Ruckus Project.
-2. Update your local Project code base using the VCS Update option
-
-    a. Select VCS --> Update Project
