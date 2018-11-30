@@ -18,14 +18,15 @@ package org.firstinspires.ftc.teamcode;
 
 public class DoubleSampleV1 extends LinearOpMode {
 
-    // Declar opMode Members
+    // Declare opMode Members
 
     private GoldAlignDetector detector;
 
     private DcMotor leftFront, leftRear, rightFront, rightRear;
     private Servo servo;
 
-    @Override
+
+     @Override
 
     public void runOpMode () {
         telemetry.addData("Status: ", "Initialized");
@@ -73,7 +74,12 @@ public class DoubleSampleV1 extends LinearOpMode {
          * Its main purpose is to detect both gold minerals at both positions for a single alliance side (see field layout).
          */
 
-        moveEncoder(200, - 200, 0.4);  //  Input Format:  ticksLeft, ticksRight, Speed)
+        //  This move encoder statement is designed to get the robot to clear the lander hook.
+        //  Please test removing this, so the when we test, the robot will start from a static position
+        //  with the assumption that it has already lowered itself and is facing forward
+        // moveEncoder(200, - 200, 0.4);  //  Input Format:  ticksLeft, ticksRight, Speed)
+
+
         while( motorsBusy() && !isStopRequested()) {
 
             /* Method Details
@@ -120,6 +126,7 @@ public class DoubleSampleV1 extends LinearOpMode {
 
         while(detector.getAligned() == false && motorsBusy() && !isStopRequested()) {
 
+
             /* Loop details:
              *
              *  Execute moveEncoder() method, while:
@@ -128,7 +135,9 @@ public class DoubleSampleV1 extends LinearOpMode {
              *    AND   - !isStopRequested = FALSE
              */
              telemetry.addData("Aligned", detector.getXPosition());
+             telemetry.addLine("Sleeping 5 seconds");
              telemetry.update();
+             sleep(5000);
         }
          /*
           *   Once the while loop breaks out of its control, which will be due detector.getAligned = TRUE  (i.e. were lined up with gold detector)
