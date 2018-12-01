@@ -77,18 +77,18 @@ public class AutoTest extends LinearOpMode {
 
 
      }
-      // Put main AS commands here
+    // Put main AS commands here
 
-      sleep(1000);
+    sleep(1000);
 
-     }  // This brace closes the while Loop
+}  // This brace closes the while Loop
 
 
  } // this brace closes the runOpMode()
 
 
 
-    public void DriveForward(double speed, int distance) {
+public void DriveForward(double speed, int distance) {
 
         // Reset Encoders
         robot.DriveRightFront.setMode(DcMotor.RunMode.STOP_AND_RESET_ENCODER);
