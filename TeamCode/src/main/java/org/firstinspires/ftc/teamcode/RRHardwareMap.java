@@ -45,9 +45,9 @@ import java.util.Locale;
 public class RRHardwareMap {
 
         public DcMotor DriveLeftFront =null,DriveLeftRear =null
-                ,DriveRightFront = null,DriveRightRear = null,Lift = null;
+                ,DriveRightFront = null,DriveRightRear = null,LANDERHOOK = null, DEPOSIT = null, PVT_EXTEND = null;
 
-
+        public Servo SWEEP = null, EXTEND = null;
 
         /* Local OpMode Members */
         HardwareMap hwMap     = null;
@@ -84,6 +84,26 @@ public class RRHardwareMap {
                 DriveRightRear.setPower(0);
                 DriveLeftFront.setPower(0);
                 DriveLeftRear.setPower(0);
+
+
+
+                // Additional DC motor definitions for Rover Ruckus Robot
+                LANDERHOOK = hwMap.dcMotor.get("hook");
+                DEPOSIT = hwMap.dcMotor.get("deposit");
+                PVT_EXTEND = hwMap.dcMotor.get("pvt");
+
+                LANDERHOOK.setPower(0);
+                DEPOSIT.setPower(0);
+                PVT_EXTEND.setPower(0);
+
+                SWEEP = hwMap.servo.get("sweep");
+                EXTEND = hwMap.servo.get("extend");
+
+
+
+
+
+
 
                 //------------------------------------------------------------
                 // IMU - BNO055

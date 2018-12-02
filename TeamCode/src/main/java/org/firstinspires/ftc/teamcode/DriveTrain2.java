@@ -45,20 +45,6 @@ public class DriveTrain2 extends LinearOpMode {
 
         double leftFrontWheel, leftBackWheel, rightFrontWheel, rightBackWheel, landerHook, depositArm, pivotArm = 0;
         double extenderArm = 0;
-        //leftFrontWheel = hardwareMap.dcMotor.get(UniversalConstants.LEFT1NAME);
-        //leftBackWheel = hardwareMap.dcMotor.get(UniversalConstants.LEFT2NAME);
-        //rightFrontWheel = hardwareMap.dcMotor.get(UniversalConstants.RIGHT1NAME);
-        //rightBackWheel = hardwareMap.dcMotor.get(UniversalConstants.RIGHT2NAME);
-        //leftFrontWheel.setDirection(DcMotorSimple.Direction.REVERSE);
-        //leftBackWheel.setDirection(DcMotorSimple.Direction.REVERSE);
-
-        // The following hardware mappings are additional DcMotor appliances
-        //landerHook = hardwareMap.dcMotor.get(UniversalConstants.LANDERHOOK);
-        //depositArm = hardwareMap.dcMotor.get(UniversalConstants.DEPOSIT);
-        //pivotArm = hardwareMap.dcMotor.get(UniversalConstants.PVT_EXTEND);
-
-        // The following hardware mappings are additional Servo appliances
-        //extenderArm = hardwareMap.servo.get(UniversalConstants.EXTEND);
 
 
         waitForStart();
@@ -70,36 +56,18 @@ public class DriveTrain2 extends LinearOpMode {
 
             arcadeMecanum(inputY, inputX, inputC, robot.DriveLeftFront, robot.DriveRightFront, robot.DriveLeftRear, robot.DriveRightRear);
 
-        /* --------------------------------------------------------------------- OLD claw code VVVVVVVVVVVVVVV
+        /*
          * Replace with New Rover Ruckus code for:
          *   1. Manipulating the Sweeper Ingest
          *   2. Extending/Retracking the extenderArm Mecahnism
          *   3. Manipulating the Pivot arm for Mineral Delivery
          *   4. Define controls for Gamepad2, which controls this section of code
-
-        motor.setPower(gamepad2.left_stick_y * .5);
-        // servo.setPosition(0);
-        //servo1.setPosition(0);
-        if (gamepad2.x == true){
-            servo1.setPosition(0.3);
-            servo.setPosition(0.6);
-        } else if (gamepad2.a == true){
-            servo.setPosition(0.02);
-            servo1.setPosition(0.98);
-        } else if (gamepad2.right_trigger == 1) {
-            servo.setPosition(.3);
-            servo1.setPosition(.65);
-            // added above code, when robot is at crypto box, driver presses right trigger to cause gripper
-            // to only partially open.  Trying to solve the problem where a full open at the crypto box
-            // was knocking already scored glpyhs out of the crypto-box and de-scoring them.
-
-        }
-
-     */
+         */
 
             // Insert New Rover Ruckus Code for Mineral Ingest/Delivery options HERE
 
 
+            
             // END of Code segment for Mineral Ingest/Delivery Options
 
         }
