@@ -3,6 +3,7 @@ package org.firstinspires.ftc.teamcode;
 import com.qualcomm.hardware.lynx.LynxI2cColorRangeSensor;
 import com.qualcomm.robotcore.hardware.DcMotor;
 import com.qualcomm.robotcore.hardware.DcMotorSimple;
+import com.qualcomm.robotcore.hardware.DigitalChannel;
 import com.qualcomm.robotcore.hardware.HardwareMap;
 import com.qualcomm.robotcore.hardware.I2cAddr;
 import com.qualcomm.robotcore.hardware.I2cDevice;
@@ -45,9 +46,11 @@ import java.util.Locale;
 public class RRHardwareMap {
 
         public DcMotor DriveLeftFront =null,DriveLeftRear =null
-                ,DriveRightFront = null,DriveRightRear = null,LANDERHOOK = null, DEPOSIT = null, PVT_EXTEND = null;
+                ,DriveRightFront = null,DriveRightRear = null,LANDERHOOK = null, LL_DEPOSIT = null, PVT_EXTEND = null;
 
-        public Servo SWEEP = null, EXTEND = null;
+        public Servo SWEEP = null, SWEEPEXT = null;
+
+        public DigitalChannel limitswBot = null, limitswTop = null;
 
         /* Local OpMode Members */
         HardwareMap hwMap     = null;
@@ -88,18 +91,19 @@ public class RRHardwareMap {
 
 
                 // Additional DC motor definitions for Rover Ruckus Robot
-                LANDERHOOK = hwMap.dcMotor.get("hook");
-                DEPOSIT = hwMap.dcMotor.get("deposit");
-                PVT_EXTEND = hwMap.dcMotor.get("pvt");
+               // LANDERHOOK = hwMap.dcMotor.get("hook");
+               // LL_DEPOSIT = hwMap.dcMotor.get("deposit");
+               // PVT_EXTEND = hwMap.dcMotor.get("pvt");
 
-                LANDERHOOK.setPower(0);
-                DEPOSIT.setPower(0);
-                PVT_EXTEND.setPower(0);
+                //LANDERHOOK.setPower(0);
+                //LL_DEPOSIT.setPower(0);
+                //PVT_EXTEND.setPower(0);
 
-                SWEEP = hwMap.servo.get("sweep");
-                EXTEND = hwMap.servo.get("extend");
+               // SWEEP = hwMap.servo.get("sweep");
+               // SWEEPEXT = hwMap.servo.get("sweepext");
 
-
+               // limitswBot = hwMap.digitalChannel.cast(1);
+               // limitswTop = hwMap.digitalChannel.cast(3);
 
 
 
